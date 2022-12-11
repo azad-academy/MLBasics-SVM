@@ -22,7 +22,7 @@ The full tutorial is available on following links:
 
 On Medium:
 
-https://azad-wolf.medium.com
+https://azad-wolf.medium.com/ml-basics-part-2-support-vector-machines-ac4defba2615
 
 On Substack:
 
