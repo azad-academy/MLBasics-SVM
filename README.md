@@ -26,7 +26,7 @@ https://azad-wolf.medium.com/ml-basics-part-2-support-vector-machines-ac4defba26
 
 On Substack:
 
-https://azadwolf.substack.com
+https://azadwolf.substack.com/p/ml-basics-part-2-support-vector-machines
 
 
 
